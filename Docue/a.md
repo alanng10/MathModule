@@ -51,3 +51,5 @@ Math has park kind arch marry.
 Math has park kind arch land.
 
 Math is did.
+
+Math has major.
