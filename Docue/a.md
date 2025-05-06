@@ -50,6 +50,10 @@ Math has park kind arch marry.
 
 Math has park kind arch land.
 
+Math has park mark.
+
+Math has park cross.
+
 Math is did.
 
 Math has major.
